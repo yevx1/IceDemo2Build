@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 087125e6f89213a43839399c87c97fe9
+timeCreated: 1509660861
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BVH:Chest
+    100002: BVH:Chest2
+    100004: BVH:Chest3
+    100006: BVH:Chest4
+    100008: BVH:Head
+    100010: BVH:Head_End
+    100012: BVH:Hips
+    100014: BVH:LeftAnkle
+    100016: BVH:LeftCollar
+    100018: BVH:LeftElbow
+    100020: BVH:LeftHip
+    100022: BVH:LeftKnee
+    100024: BVH:LeftShoulder
+    100026: BVH:LeftToe
+    100028: BVH:LeftToe_End
+    100030: BVH:LeftWrist
+    100032: BVH:LeftWrist_End
+    100034: BVH:Neck
+    100036: BVH:RightAnkle
+    100038: BVH:RightCollar
+    100040: BVH:RightElbow
+    100042: BVH:RightHip
+    100044: BVH:RightKnee
+    100046: BVH:RightShoulder
+    100048: BVH:RightToe
+    100050: BVH:RightToe_End
+    100052: BVH:RightWrist
+    100054: BVH:RightWrist_End
+    100056: head
+    100058: pCylinder2
+    100060: pCylinder3
+    100062: pCylinder4
+    100064: polySurface5
+    100066: //RootNode
+    100068: transform5
+    100070: transform6
+    100072: transform7
+    100074: transform8
+    400000: BVH:Chest
+    400002: BVH:Chest2
+    400004: BVH:Chest3
+    400006: BVH:Chest4
+    400008: BVH:Head
+    400010: BVH:Head_End
+    400012: BVH:Hips
+    400014: BVH:LeftAnkle
+    400016: BVH:LeftCollar
+    400018: BVH:LeftElbow
+    400020: BVH:LeftHip
+    400022: BVH:LeftKnee
+    400024: BVH:LeftShoulder
+    400026: BVH:LeftToe
+    400028: BVH:LeftToe_End
+    400030: BVH:LeftWrist
+    400032: BVH:LeftWrist_End
+    400034: BVH:Neck
+    400036: BVH:RightAnkle
+    400038: BVH:RightCollar
+    400040: BVH:RightElbow
+    400042: BVH:RightHip
+    400044: BVH:RightKnee
+    400046: BVH:RightShoulder
+    400048: BVH:RightToe
+    400050: BVH:RightToe_End
+    400052: BVH:RightWrist
+    400054: BVH:RightWrist_End
+    400056: head
+    400058: pCylinder2
+    400060: pCylinder3
+    400062: pCylinder4
+    400064: polySurface5
+    400066: //RootNode
+    400068: transform5
+    400070: transform6
+    400072: transform7
+    400074: transform8
+    4300000: pCylinder4
+    9500000: //RootNode
+    13700000: pCylinder4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 72a73992bc880f0429e4da7df6645ffc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: cdf1286e9733fd14c844ba98df9e1df5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 2fb5e33b89537ac42be5b0213649fe4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 29d96fd38fac41c40b468336d6ca7da0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: fe8600082f887b2439de6d943a7eafa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: f4ea118bc85612444a3cf07417da6a8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: aff1b6907e02fa94fa44f98ba5da068b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
